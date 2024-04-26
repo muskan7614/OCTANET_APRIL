@@ -1,2 +1,2 @@
 
-This is the landing page which is made by using html and css.
+This is the landing page which is design through the help of HTML  and CSS.
